@@ -31,6 +31,7 @@ I am currently working in R&D at Karpagam Academy of Higher Education, Coimbator
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ranjithkumar2213)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-%234285F4.svg?style=for-the-badge&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=your-id](https://scholar.google.com/citations?user=Pr6plXQAAAAJ&hl=en))
+[![ORCID](https://img.shields.io/badge/ORCID-%2300A67E.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5252-2306)
 
 ---
 
