@@ -23,7 +23,7 @@ I am currently working in R&D at Karpagam Academy of Higher Education, Coimbator
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrManikandan&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ran0707)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrManikandan&layout=compact&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrManikandan&show_icons=true&theme=radical&hide_border=true)
 
