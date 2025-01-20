@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi there, I'm Ranjithkumar! 👋
 
-<!--
-**ran0707/ran0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working in R&D at Karpagam Academy of Higher Education, Coimbatore. My expertise spans Deep Learning, Computer Vision, and AI-driven automation, with active research in Machine Learning, TensorFlow, PyTorch, and Vision Transformers. I am also involved in funded projects related to AI-driven pest detection using drones in tea plantations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **AI-driven pest detection in tea plantations using drones** 📡☕
+- 🌱 Exploring **Vision Transformers, GANs, and Federated Learning**
+- 🎯 Interested in **AI, Computer Vision, Machine Learning, and Full Stack Web Development**
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrManikandan&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrManikandan&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrManikandan&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ranjithkumar2213)
+[![Google Scholar](https://img.shields.io/badge/GoogleScholar-%234285F4.svg?style=for-the-badge&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=your-id](https://scholar.google.com/citations?user=Pr6plXQAAAAJ&hl=en))
+
+---
+
+### 🎯 Latest Projects
+- **AI-based Pest Detection in Tea Plants** 🌱🛸
+- **Medical Image Classification using Vision Transformers** 🏥🖼️
+- **Speech Emotion Recognition using CNNs** 🎤🧠
+- **EEG-based Seizure Detection using ML-DL Models** ⚡🧠
+
+---
+
+### 🛠️ Open to Collaboration
+🚀 If you have an exciting project involving **AI, ML, DL, Computer Vision, or Web Development**, feel free to connect! Let's build something impactful together! 💡
+
