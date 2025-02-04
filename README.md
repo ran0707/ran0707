@@ -1,6 +1,6 @@
 ### Hi there, I'm Ranjithkumar! 👋
 
-I am currently working in R&D at Karpagam Academy of Higher Education, Coimbatore. My expertise spans Deep Learning, Computer Vision, and AI-driven automation, with active research in Machine Learning, TensorFlow, PyTorch, and Vision Transformers. I am also involved in funded projects related to AI-driven pest detection using drones in tea plantations.
+My expertise spans Deep Learning, Computer Vision, and AI-driven automation, with active research in Machine Learning, TensorFlow, PyTorch, and Vision Transformers. I am also involved in funded projects related to AI-driven pest detection using drones in tea plantations.
 
 ---
 
@@ -12,6 +12,8 @@ I am currently working in R&D at Karpagam Academy of Higher Education, Coimbator
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/expo-react%20EF0C2D%20)
+
 
 ---
 
